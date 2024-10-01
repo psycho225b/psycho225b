@@ -1,6 +1,6 @@
 ## Logic gate fanatic
 
-understanding how we humans made a sand think.👋
+understanding how we humans made a sand think.
 
 <!--
 **psycho225b/psycho225b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
